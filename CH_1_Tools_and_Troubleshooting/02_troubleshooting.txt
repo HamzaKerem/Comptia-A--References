@@ -1,0 +1,17 @@
+Troubleshooting:
+
+1 - Identify problem.
+Question the user. Ask general questions.
+
+2 - Establish a theory of probable cause.
+
+3 - Test the theory to determine cause.
+
+4 - Repeat steps 2 & 3 as neccessary.
+
+5 - Establish a plan of action.
+
+6 - Verify full functionality and implement preventative
+meausers if neccessary.
+
+7 - Document findings, actions, and outcomes.

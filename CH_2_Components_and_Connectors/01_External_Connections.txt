@@ -1,0 +1,28 @@
+Note: The exam tests for the visual appearance of the connection types.
+
+Network Connector (RJ45) = Ethernet port
+
+Video connectors:
+- DVI (old)
+- DisplayPort 
+- HDMI (modern)
+
+Outdated connectors:
+mini-DIN (aka PS/2) purple -> keyboard
+mini-DIN (aka PS/2) green  -> mouse
+parallel port -> printer
+Serial Port -> serial
+VGA -> monitor
+analog style s-video connector -> monitor
+
+Laptop connectors:
+- anti-theft 
+- RJ45
+- USB-A
+- HDMI
+- Mini DisplayPort
+- USB-C 
+- Microphone
+- Speaker
+- SD 
+- Optical Media (aka port for CD, DVD, etc.)
