@@ -1,0 +1,9 @@
+Internal components of a computer:
+- Motherboard: primary device by which all the internal components are connected together
+- Ram Stick: Ram module
+- CPU (protected by thermal paste) + Cooling System: Processing Unit
+- M.2 SSD: mass storage
+- Hard drive: mass storage
+- Expansion slot (aka PCIe): Expandability unit
+- Chipset: Defines features of the motherboard
+- Front panel connectors: handles the front panel switches (such as on/off, etc.)

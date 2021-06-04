@@ -1,0 +1,29 @@
+X Hertz (Hz) = clock can be pressed X times per second (top speed)
+X Giga Hertz (GHz) = clock can be pressed X billion times per second (top speed)
+
+Two predominant CPU manufacturers:
+- Intel
+- AMD
+Both AMD's and Intel's processors use the same machine language instruction set.
+
+Every motherboard also consist of a quartz crystal oscillator which creates an electrical
+signal with a constant frequency.
+
+A CPU clock multiplier sets the ratio of an internal CPU clock rate to the externally supplied clock.
+A CPU with a 10x multiplier will thus see 10 internal cycles for every external clock cycle.
+For example, a system with an external clock of 100 MHz and a 36x clock multiplier will have an internal CPU clock of 3.6 GHz.
+
+A speed of a motherboard isn't easy to increase. As of 2021 a high-end motherboard
+clocks around 200 Mhz.
+
+A program called "CPUID CPU-Z" allows for CPU querying. It displays CPU system info.
+
+CPU Overclocking is the practice of increasing the clock rate of a computer to exceed that certified by the manufacturer.
+Although it may increase the performance of the system, it also creates instability.
+
+Hyper-threading is Intel's proprietary simultaneous multithreading (SMT) implementation used to improve parallelization of computations 
+performed on x86 microprocessors. A single pipeline is able to handle multiple incoming instructions.
+
+Multi-core vs single-core can be taught of as a highway vs one-way road in which cars (instructions) travel.
+
+Note: `lscpu` displays the system's CPU info.

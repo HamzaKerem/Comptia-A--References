@@ -1,0 +1,18 @@
+When a program is "clicked" on, the program data is copied off the hard drive to the RAM.
+Once in RAM, individual lines of the program are fed into the CPU via its external data bus.
+
+The CPU is faster than the RAM, while the RAM is faster than the hard drive.
+
+SRAM (Static RAM) is a type of RAM typically used for caching and storing data in the internal registers
+of the CPU. SRAM is faster and more expensive than regular RAM.
+
+If an instruction required by the CPU isn't available, a pipeline stall will occur.
+
+Caching (pronounced "cash-ing") allows for short-term storage to be quickly reached.
+Vast majority of CPUs come with 3 built-in caches. The level 1 (aka L1) cache runs at the same speed as the CPU.
+The level 2 cache feeds the level 1 cache and is a lot bigger than it, yet it will run at only about half
+the speed. The level 3 cache, which is bigger than the L2 cache, runs at about the base motherboard speed 
+(still a lot faster than the RAM) and allows to avoid pipeline stalls.
+
+Set association defines how the different types of caches are efficient at being able to hand the right 
+piece of code up to CPU. (Note: Not on the A+ exam)

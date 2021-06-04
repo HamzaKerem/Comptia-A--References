@@ -1,0 +1,21 @@
+A data bus allows for data to travel between computer components.
+
+Every CPU has a built-in machine language interpreter.
+CPUs also have built-in registers (referred to as AX, BX, CX, etc.) that
+temporarily store data for calculations. A single register simply allows for the storage of
+multiple bits.
+
+Conceptual binary instructions:
+10000000: put the next line in register AX
+10010000: put the next line in register BX
+10110000: add together AX and BX, store result in AX 
+11000000: put the value in AX on the External Data Bus
+
+CPUs also consist of clocks which inform CPUs to perform an action.
+Modern day systems are so complex that the clock signal might have to be 
+repeatedly sent to the CPU in order for it to take on the next command.
+CPUs get more sophisticated as their clock response time increase, making them
+higher quality.
+
+The CPU consists of logic units which do all the arithmetic calculations.
+A CPU pipeline (aka core) allows for parallel execution by overlapping instructions.
