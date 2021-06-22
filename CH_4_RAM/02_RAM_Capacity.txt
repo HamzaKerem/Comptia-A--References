@@ -1,0 +1,15 @@
+There are two types of RAM when it comes to capacity:
+- Single sided: Has RAM only on a single side.
+- Double sided: Has RAM on both sides
+
+Motherboards might not always support double-sided RAM.
+
+Multiple RAM slots on the motherboard allows for flexibility. The total RAM available is the sum of each RAM stick.
+
+Memory channels are the links (wires) between your RAM and your CPU through which data moves between the two.
+Motherboard's RAM slots are commonly in the form of "Dual-channel memory", which allows for the pair of RAM sticks to each
+be placed in a specific slot. Both RAM sticks in a single channel must belong to the same model. 
+
+If a motherboard had 2 channels available (A and B) and for channel A, 2 16 GB RAM sticks were used and for channel B, 2 4 GB RAM sticks
+were used, what is the total available RAM on the system?
+2 * 16 + 2 * 4 = 40 GB

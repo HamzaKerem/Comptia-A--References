@@ -1,0 +1,8 @@
+Installing RAM:
+0. Use a anti-static wrist band.
+1. Always read the motherboard's specifications to see what RAM sticks can be installed.
+2. Push the tabs of the RAM slots down if there are any in order to prepare for insertion.
+3. Align the notches of the RAM stick and the ones on the slots and drop the stick straight in.
+
+An error message reporting that there is a problem in RAM most likely is caused by faulty installation, the RAM stick itself is almost always
+fully working. A successful boot indicates a successful installation of the RAM.

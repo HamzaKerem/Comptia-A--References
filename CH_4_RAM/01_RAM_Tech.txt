@@ -1,0 +1,19 @@
+Synchronous means synced to the same system crystal. 
+MT/s (Mega Transfers per second) is used to measure bandwidth.
+
+Types of RAM:
+Synchronous Dynamic RAM (SDRAM) - has 2 notches (Not on the exam).
+
+DDR SDRAM - 1 click of the clock gives 2 bits of data. The PC speed rating is equivalent to DDR speed rating in bits instead of bytes. The 
+Core RAM Clock speed is half of DDR speed.
+
+DDR2 - 2 times as fast as regular DDR and PC2 is 8 times as fast (bits to bytes) than DDR2.
+
+DDR3 - 2 times as fast as DDR2 and PC3 is 8 times as fast (bits to bytes) than DDR3.
+
+DDR4 - 2 times as fast as DDR3 and PC4 is 8 times as fast (bits to bytes) than DDR4.
+
+Note: The pin numbers increase as models are released (might be on the exam). PC or DDR ratings will both show the speed of the RAM.
+
+Finding a compatible RAM for the motherboard is a must. The notches on the RAMs allow for the proper type of RAM to fit into the compatible
+motherboard.

@@ -1,0 +1,7 @@
+RAM sticks usually have 8 chips on a single side.
+
+Parity/ECC RAM: Certain RAM sticks come with an extra chip in case of failure.
+
+SO-DIMM: Smaller RAM sticks usually used for smaller systems such as laptops.
+
+SPD: There is a tiny built-in chip that allows for displaying the RAM stick's properties.
