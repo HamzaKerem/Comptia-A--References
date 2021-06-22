@@ -1,0 +1,21 @@
+The CPU socket (or slot) refers to the component where the CPU is placed into.
+
+A micro architecture is a circuit diagram and the way a given instruction set architecture (ISA) is implemented in a particular processor.
+
+Intel releases each new micro architecture under a new family name. i.e.:
+Nehalem (1st Gen)
+Sandy Bridge (2nd Gen)
+...
+Coffee Lake (8th Gen)
+
+Each new micro architecture release also accompanies a CPU socket release.  
+
+There are commonly two types of surface-mounts:
+- Pin Grid Array: Has pins sticking out of the CPU, not on the socket. The socket has the holes.
+- Land Grid Array: Has pads on the CPU, not on the socket. The socket has the pins.
+
+Common modern sockets:
+- LGA 1151 (Intel)
+- LGA 2066 (Intel)
+- AM4 (AMD)
+- TR4 (AMD)

@@ -1,0 +1,18 @@
+An anti-static device is any device that reduces, dampens, or otherwise inhibits electrostatic discharge.
+A anti-static wristbands are commonly used in professional environments.
+
+A motherboard's speed might be incompatible with the CPU's speed, same goes for the sockets. Always check before buying.
+An AMD motherboard will only work with an AMD CPU, same goes for Intel.
+
+Installing The CPU:
+1. For "zero insertion force" sockets, lift up the insertion bar.
+2. Carefully remove the CPU from its packaging and get it ready for installation. Do NOT touch its pins or lands/pads.
+3. Locate the orientation notch of the CPU, the notch which has a different shape than all of the other corners.
+4. Align the orientation notch of the CPU and the matching notch of the socket and install the CPU carefully.
+5. Close the insertion bar.
+
+The installation of the fan changes over time and differs from model to model. As a rule of thumb, look for
+the placing of the thermal paste and notches that can be aligned to fit right into the motherboard.
+Make sure to also connect the fan's power connector to the motherboard.
+
+Liquid cooling systems can also be used to further increase cooling efficiency. It reduces a lot of fan noise.
