@@ -1,0 +1,7 @@
+Firmware is software that's embedded in a piece of hardware. The firmware in the motherboard is called BIOS. 
+It allows for the interactions between hardware devices. Services are BIOS programs that make hardware functional.
+
+Modern motherboards have two BIOS chips in case of failure.
+
+The booting process completes a Power On Self Test (POST) before booting into a OS. The POST can be found in the BIOS chip.
+System Setup (CMOS) is also a part of the firmware.

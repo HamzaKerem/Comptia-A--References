@@ -1,0 +1,8 @@
+There is a wire in the back of every CPU called "power good wire". As soon as that wire gets enough voltage, the CPU starts running and it
+then interacts with the BIOS and starts POST.
+
+There are beep codes associated with POST that might communicate which specific components of the system failed. Each failed component
+produces different "beeps". Beep codes are issued when error messages can't be displayed on the screen.
+
+POST cards are external devices that can be plugged into the system in order to read the data being outputted by the POST program.
+Each output produces a hexadecimal code (aka Q-code) which has a meaning that can be found in the motherboard's specification guide.

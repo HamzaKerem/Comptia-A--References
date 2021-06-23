@@ -1,0 +1,8 @@
+
+The UEFI is the modern BIOS.
+The system setup is an interface that allows for the user to make changes to the BIOS.
+
+Non-volatile memory is a term used to describe memory or storage that is saved regardless if the computer has power, AKA permanent storage.
+Erasable Programmable Read-Only Memory (EPROM) is a non-volatile memory chip that can only be read. It can't save any new data.
+CMOS is an onboard, battery powered semiconductor chip inside computers that stores information.
+

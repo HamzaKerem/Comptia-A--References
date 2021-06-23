@@ -1,0 +1,9 @@
+Single Flash ROM chips (Flash Memory) is modernly used that can be "flashed"/reprogrammed, thus the BIOS can be updated.
+However, improper flashing can completely ruin the motherboard. Steps for flashing the flash chip:
+1 - Have a good power (aka electrical supply) that won't go off.
+2 - Have a complete copy of a flash update. 
+
+Real-Time Clock (RTC) is an integrated circuit on a computer's motherboard that is powered by the CMOS battery. The RTC provides an 
+accurate date and time, in addition to allowing a computer to regulate the timing and speed of all its functions.
+Every motherboard has a built-in battery which powers the RTC when the device is not connected to a power supply. If the battery fails,
+the system time will slow down, system data will be lost, etc. CR2032 is the standard CMOS and RTC battery.
